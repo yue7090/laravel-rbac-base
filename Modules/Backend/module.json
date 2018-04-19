@@ -1,0 +1,19 @@
+{
+    "name": "Backend",
+    "alias": "backend",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Backend\\Providers\\BackendServiceProvider",
+        "Yuansir\\Toastr\\ToastrServiceProvider"
+    ],
+    "aliases": {
+        "Toastr": "Yuansir\\Toastr\\Facades\\Toastr"
+    },
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

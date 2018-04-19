@@ -1,0 +1,9 @@
+[13-Apr-2018 06:07:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 266240 bytes) in /home/wwwroot/plana/admin/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 194
+[16-Apr-2018 23:49:42 UTC] PHP Fatal error:  Trait 'Modules\Backend\Entities\SoftDeletes' not found in /home/wwwroot/plana/admin/Modules/Backend/Entities/Role.php on line 9
+[18-Apr-2018 19:11:42 Asia/Shanghai] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/wwwroot/plana/admin/storage/framework/views/623ee52e61308d424463698c683a9b1703c257e9.php on line 282
+[18-Apr-2018 19:11:42 Asia/Shanghai] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98693120 bytes) in /home/wwwroot/plana/admin/vendor/symfony/http-foundation/Response.php on line 358
+[18-Apr-2018 19:11:42 Asia/Shanghai] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98566144 bytes) in Unknown on line 0
+[18-Apr-2018 19:11:49 Asia/Shanghai] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/wwwroot/plana/admin/storage/framework/views/623ee52e61308d424463698c683a9b1703c257e9.php on line 282
+[18-Apr-2018 19:11:49 Asia/Shanghai] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98693120 bytes) in /home/wwwroot/plana/admin/vendor/symfony/http-foundation/Response.php on line 358
+[18-Apr-2018 19:11:49 Asia/Shanghai] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98566144 bytes) in Unknown on line 0
+[18-Apr-2018 21:11:31 Asia/Shanghai] PHP Fatal error:  Cannot use Auth as Auth because the name is already in use in /home/wwwroot/plana/admin/Modules/Backend/Http/Middleware/AuthMiddleware.php on line 8
